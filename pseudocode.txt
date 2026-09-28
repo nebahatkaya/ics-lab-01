@@ -13,3 +13,11 @@ Replace the example below with your own.
 5  If its number is bigger than "largest so far", remember it as "largest so far"
 6  Go back to line 3
 7  Announce "largest so far"
+
+1-Set low to 1 high to 100
+2-Calculate guess as the middle between low and high 
+3-Ask the friend 'ıs your number equal to guess?'
+4-If the answer is yes your guest is right and stop if the answer is not yes you go on the next step
+5-Ask the friend 'Is your number hıgher than guess?'
+6-If the answer is 'yes' set low to guess +1 otherwise set high to guess -1
+7-Go back to line 2
