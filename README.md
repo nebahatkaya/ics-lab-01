@@ -31,8 +31,8 @@ Meow: https://scratch.mit.edu/projects/1385883755
 
 ## Part B · Your own project
 
-Project: PASTE-YOUR-PROJECT-LINK-HERE
+Project: https://scratch.mit.edu/projects/1385890720
 
 One or two sentences on what it does and which custom block, variable, loop, condition and event it uses:
 
-(write here)
+This game allows the player to feed a cat by clicking on the fish. It uses the custom block 'check mood' the variable 'happıness' a repeat until loop, if else condition and green flag also broadcast events. 
